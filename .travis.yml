@@ -1,6 +1,8 @@
 language: node_js
 node_js:
-  - lts/*
+  - "10"
+git:
+  depth: 1
 before_install:
   - |
     if [[ $TRAVIS_COMMIT_MESSAGE != "release:"* ]]
