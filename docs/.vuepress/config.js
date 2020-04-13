@@ -9,6 +9,7 @@ module.exports = {
   title: 'XFE DOCUMENT',
   description: '西山居前端开发文档',
   themeConfig: {
+    base: '/xfe-document/',
     docsDir: 'docs',
     repo: 'XFETeam/xfe-document',
     repoLabel: '查看源码',
