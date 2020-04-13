@@ -8,8 +8,8 @@ console.log(utils.generateSideBar(rootpath, './css'));
 module.exports = {
   title: 'XFE DOCUMENT',
   description: '西山居前端开发文档',
+  base: '/xfe-document/',
   themeConfig: {
-    base: '/xfe-document/',
     docsDir: 'docs',
     repo: 'XFETeam/xfe-document',
     repoLabel: '查看源码',
