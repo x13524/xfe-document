@@ -1,0 +1,31 @@
+{
+  "name": "xfe-document",
+  "version": "1.0.0",
+  "description": "xfe develop documents",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XFETeam/xfe-document.git"
+  },
+  "keywords": [
+    "xfe",
+    "document"
+  ],
+  "author": "xfe-team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XFETeam/xfe-document/issues"
+  },
+  "homepage": "https://github.com/XFETeam/xfe-document#readme",
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  }
+}
