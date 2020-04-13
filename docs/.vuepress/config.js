@@ -16,7 +16,7 @@ module.exports = {
     editLinks: true,
     editLinkText: '在 GitHub 上编辑此页！',
     smoothScroll: true,
-    lastUpdated: 'Last Updated',
+    lastUpdated: '上次更新',
     sidebar: [
       {
         title: 'CSS文档',
