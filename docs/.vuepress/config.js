@@ -15,7 +15,6 @@ module.exports = {
     repoLabel: '查看源码',
     editLinks: true,
     editLinkText: '在 GitHub 上编辑此页！',
-    smoothScroll: true,
     lastUpdated: '上次更新',
     sidebar: [
       {
