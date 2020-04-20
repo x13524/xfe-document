@@ -1,4 +1,6 @@
 # xfe-document
+https://vuepress.vuejs.org/zh/
+
 xfe前端开发文档
-* [ ] 导航栏脚本
-* [ ] CI
+* [x] 导航栏脚本
+* [x] CI
