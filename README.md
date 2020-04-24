@@ -8,7 +8,7 @@
 
 ## 本文档维护方式
 
-如果你拥有本仓库权限可以直接使用 Gitpod 进行更新
+如果你拥有本仓库权限可以直接使用 Gitpod 进行更新。
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/XFETeam/xfe-document)
 
