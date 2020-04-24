@@ -2,7 +2,7 @@
 home: true 
 heroImage: /images/vuejsradar.png
 actionText: 开始阅读 →
-actionLink: /css/css-rule.html
+actionLink: /start-quickly/pc-project.html
 features:
 - title: Javascript 规范 
   details: Javascript 相关规范和注意事项
