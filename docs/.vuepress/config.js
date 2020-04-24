@@ -22,7 +22,7 @@ module.exports = {
                 title: '快速上手掌握',
                 collapsable: false,
                 sidebarDepth: 1,
-                children: utils.generateSideBar(rootpath, './start-quickly')
+                children: ['/start-quickly/pc-project', '/start-quickly/mobile-project']
             },
             {
                 title: '页面规范',
@@ -36,6 +36,7 @@ module.exports = {
                     '/page-standard/note-and-name',
                     '/page-standard/file-directory',
                     '/page-standard/navibar',
+                    '/page-standard/foot',
                     '/page-standard/pc-compatible',
                     '/page-standard/mobile-compatible',
                     '/page-standard/h5-video-audio',

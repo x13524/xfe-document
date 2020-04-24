@@ -1,8 +1,8 @@
 ---
-title: PC端专题
+title: 移动端专题
 ---
 
-# PC端专题
+# 移动端专题
 ## 专题创建
 * [专题命名](../page-standard/file-directory.md#%E4%B8%93%E9%A2%98%E7%9B%AE%E5%BD%95%E5%91%BD%E5%90%8D)
 
@@ -32,7 +32,7 @@ title: PC端专题
 
   按照规范中内容添加指定Meta
   
- *  [网页标题、关键字、描述](/page-standard/pageHead.html#%E9%A1%B5%E9%9D%A2%E6%A0%87%E9%A2%98-title) 正确填写有助于SEO
+ * [网页标题、关键字、描述](/page-standard/pageHead.html#%E9%A1%B5%E9%9D%A2%E6%A0%87%E9%A2%98-title) 正确填写有助于SEO
 ## 页面内容
 * [默认字体](/page-standard/css.html#reset%E7%A4%BA%E4%BE%8B)
 
@@ -71,11 +71,19 @@ title: PC端专题
 
   道具图片、头像、奖品，必须单独切割出来
 ## 兼容测试
-* [浏览器兼容](/page-standard/pc-compatible.html#%E6%B5%8F%E8%A7%88%E5%99%A8%E5%85%BC%E5%AE%B9)
+* [兼容](/page-standard/mobile-compatible.html)
 
-  兼容IE8及以上、Firefox、chrome，QQ浏览器，页面无错位及其他异常
-* [分辨率兼容](/page-standard/pc-compatible.html#%E5%88%86%E8%BE%A8%E7%8E%87%E5%85%BC%E5%AE%B9)
+  兼容安卓4.4及以上、iOS最新版本下的微信、手Q、UC、QQ浏览器，如果是游戏APP内置页面，必须兼容游戏对应内置的MSDK浏览器
+* [音频/视频]()
 
-  1366X769~1920X1080
+  为了音频/视频可以在不同设备表现更好，请参阅。
+ * 分享
+ 
+   --引用公用分享组件，按需求合理填充页面的分享信息，标题不超过20个字符，描述不超过100个字符。分享图标的地址协议使用https，图片尺寸为200*200
 ## 内容检查
 * 页面内容检查 代码之外的检查，例如错别字、图片版权等
+## 其他
+* [视频](/page-standard/h5-video-audio.html)
+
+页面video视频使用注意事项。
+
