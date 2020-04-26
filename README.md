@@ -20,6 +20,10 @@
 - 推送分支: `git push origin my-new-feature`
 - 提交一个 PR (pull request)
 
+## 部署
+
+目前 CI 持续集成对 `commit message` 存在监测, 当 `commit message` 以 `release:` 开头的将被同步到 gh-pages, 并最终同步到生产环境线上。
+
 ## LICENSE
 
 MIT
