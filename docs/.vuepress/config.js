@@ -22,7 +22,7 @@ module.exports = {
                 title: '快速上手掌握',
                 collapsable: false,
                 sidebarDepth: 1,
-                children: ['/start-quickly/pc-project', '/start-quickly/mobile-project']
+                children: ['/start-quickly/pc-project', '/start-quickly/mobile-project', '/start-quickly/univers']
             },
             {
                 title: '页面规范',
